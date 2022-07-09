@@ -24,13 +24,13 @@ The purpose of this analysis is to find out the school performance differences w
 
 - #### School Summary
 
-![image-20220708211401984](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708211401984.png)
+![image-20220708211401984](Resources/image-20220708211401984.png)
 
 ​							School Summary After changing 9th grade scores to NaN.
 
 
 
-![image-20220708220023070](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708220023070.png)
+![image-20220708220023070](Resources/image-20220708220023070.png)
 
 ​							School Summary before changing 9th grade scores to NaN.
 
@@ -40,11 +40,11 @@ The purpose of this analysis is to find out the school performance differences w
 
 - #### Thomas High School Performance Difference by Replacing 9th Grade Scores
 
-![image-20220708211741201](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708211741201.png)
+![image-20220708211741201](Resources/image-20220708211741201.png)
 
  							Thomas High School Summary After changing 9th grade scores to NaN.
 
-![image-20220708211821346](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708211821346.png)
+![image-20220708211821346](Resources/image-20220708211821346.png)
 
 ​							Thomas High School Summary before changing 9th grade scores to NaN.
 
@@ -56,13 +56,13 @@ The purpose of this analysis is to find out the school performance differences w
 
   - #### Math and reading scores by grade
 
-    ![image-20220708212350074](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708212350074.png)![image-20220708212451808](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708212451808.png)
+    ![image-20220708212350074](Resources/image-20220708212350074.png)![image-20220708212451808](Resources/image-20220708212451808.png)
 
     ​											Grade Math and Reading scores After changing 9th grade scores to NaN.
 
     
 
-  ![image-20220708214505498](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708214505498.png)![image-20220708214534035](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708214534035.png)
+  ![image-20220708214505498](Resources/image-20220708214505498.png)![image-20220708214534035](Resources/image-20220708214534035.png)
 
   ​													Grade Math and Reading scores before changing 9th grade scores to NaN.
 
@@ -74,13 +74,13 @@ The purpose of this analysis is to find out the school performance differences w
 
   
 
-  ![image-20220708213636654](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708213636654.png)
+  ![image-20220708213636654](Resources/image-20220708213636654.png)
 
   ​											School Spending Summary after changing 9th grade scores to NaN.
 
   
 
-  ![image-20220708220716668](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708220716668.png)
+  ![image-20220708220716668](Resources/image-20220708220716668.png)
 
   ​											School Spending Summary before changing 9th grade scores to NaN.
 
@@ -92,13 +92,13 @@ The purpose of this analysis is to find out the school performance differences w
 
     
 
-  ![image-20220708212757746](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708212757746.png)
+  ![image-20220708212757746](Resources/image-20220708212757746.png)
 
   ​											School Size Summary after changing 9th grade scores to NaN.
 
   
 
-  ![image-20220708213543026](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708213543026.png)
+  ![image-20220708213543026](Resources/image-20220708213543026.png)
 
   ​												School Size Summary before changing 9th grade scores to NaN.
 
@@ -108,11 +108,11 @@ The purpose of this analysis is to find out the school performance differences w
 
   - #### Scores by school type
 
-![image-20220708212839990](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708212839990.png)
+![image-20220708212839990](Resources/image-20220708212839990.png)
 
 ​												School Type Summary after changing 9th grade scores to NaN.
 
-![image-20220708213451840](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708213451840.png)
+![image-20220708213451840](Resources/image-20220708213451840.png)
 
 ​												School Type Summary before changing 9th grade scores to NaN.
 
