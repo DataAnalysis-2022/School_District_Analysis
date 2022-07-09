@@ -10,11 +10,11 @@ The purpose of this analysis is to find out the school performance differences w
 
 - #### District Summary
 
-​			![image-20220708211209254](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708211209254.png)
+​			![image-20220708211209254](Resources/image-20220708211209254.png)
 
 ​					District Summary After changing 9th grade scores to NaN.
 
-![image-20220708214638368](C:\Users\yunka\AppData\Roaming\Typora\typora-user-images\image-20220708214638368.png)
+![image-20220708214638368](Resources/image-20220708214638368.png)
 
 ​					District Summary before changing 9th grade scores to NaN.
 
